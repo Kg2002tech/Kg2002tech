@@ -6,12 +6,8 @@ my_app = tk.Tk()
 my_app.title("Music Player Alt Version 2")
 my_app ['bg'] = "black"
 
-
-
-
 #Initialize mixer
 mixer.init()
-mixer.music.set_volume(0.5)
 
 path = os.chdir('C:/Users/ADMIN/Music')
 songs_list = os.listdir(path)

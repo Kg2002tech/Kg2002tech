@@ -1,1 +1,1 @@
--Sup
+These projects are simple music players in Python using the Tkinter module 

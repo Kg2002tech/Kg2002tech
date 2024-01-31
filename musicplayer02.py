@@ -1,6 +1,5 @@
 import tkinter as tk
 import os
-from turtle import width
 from pygame import  mixer
 my_app = tk.Tk()
 my_app.title("Music Player Alt Version 2")

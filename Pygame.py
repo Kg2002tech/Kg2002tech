@@ -1,5 +1,3 @@
-import random
-#from PIL import ImageTk,Image
 import tkinter as tk
 import os
 from pygame import mixer, mixer_music
